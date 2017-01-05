@@ -1,7 +1,7 @@
 #include <cmath>
 #include <string>
 #include "Logging.h"
-#include "Wrapper.h"
+#include "Json11Wrapper.h"
 
 CJson11Wrapper::CJson11Wrapper()
 {}

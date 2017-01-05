@@ -72,7 +72,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="json11.hpp" />
-    <ClInclude Include="Wrapper.h" />
+    <ClInclude Include="Json11Wrapper.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="json11.cpp" />
